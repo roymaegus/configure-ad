@@ -1,3 +1,7 @@
+<p>
+<img src="images/pic8 - dndUploadFolder.PNG" alt="dndUploadFolder" width="50%" height="50%">
+</p>
+
 On-premises Active Directory Deployed in the Cloud (Azure)
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.
 Environments and Technologies Used
