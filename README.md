@@ -1,5 +1,5 @@
-<p>
-<img src="images/msAzureBanner.PNG" alt="dndUploadFolder" width="50%" height="50%">
+<p align="center">
+  <img src="images/msAzureBanner.PNG" alt="dndUploadFolder" width="50%" height="50%">
 </p>
 
 
@@ -54,6 +54,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h5>Network Settings</h5>
 <img src="images/9 - networkSettings.PNG" alt="networkSettings" width="50%" height="50%">
 <img src="images/10 - clickTheNic.PNG" alt="clickTheNic" width="50%" height="50%">
+<h5>Set Domain Controller’s NIC Private IP address to be static</h5>
 <img src="images/11 - configStatic.PNG" alt="configStatic" width="50%" height="50%">
 <br />
 <br />
@@ -63,22 +64,26 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h5>Login into VM DC-1</h5>
 <img src="images/12 - accessClientVm.PNG" alt="accessClientVm" width="50%" height="50%">
 <img src="images/13 - login.PNG" alt="login" width="50%" height="50%">
-<img src="images/14 - ping.PNG" alt="ping" width="50%" height="50%">
 <img src="images/15 - openWfmsc.PNG" alt="openWfmsc" width="50%" height="50%">
 <img src="images/16 - enableCoreNetworking.PNG" alt="enableCoreNetworking" width="50%" height="50%">
+<h5>Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with ping -t (ip address) (perpetual ping)</h5>
 <img src="images/17 - SuccessfulPing.PNG" alt="SuccessfulPing" width="50%" height="50%">
 <br />
 <br />
 <br />
 
 
-<h5>Add roles and features</h5>
+<h5>Install Active Directory</h5>
 <img src="images/18 - part2AddRoles.PNG" alt="part2AddRoles" width="50%" height="50%">
+<h5>Login to DC-1 and install Active Directory Domain Services</h5>
+
 <img src="images/19 - aDServices.PNG" alt="aDServices" width="50%" height="50%">
 <img src="images/20 - finishInstall.PNG" alt="finishInstall" width="50%" height="50%">
+<h5>Promote as a DC: Setup a new forest as mydomain.com </h5>
 <img src="images/21 - selectDomain.PNG" alt="selectDomain" width="50%" height="50%">
+
+<h5>Make sure Create DNS Delegation box is unchecked</h5>
 <img src="images/22 - uncheckBox.PNG" alt="uncheckBox" width="50%" height="50%">
-<img src="images/23 - newCredentials.PNG" alt="newCredentials" width="50%" height="50%">
 <br />
 <br />
 <br />
