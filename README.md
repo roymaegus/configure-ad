@@ -45,11 +45,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="images/6 - skipDisks.PNG" alt="skipDisks" width="50%" height="50%">
 <img src="images/7 - networkingOptions.PNG" alt="networkingOptions" width="50%" height="50%">
 <img src="images/8 - createVmTwo.PNG" alt="createVmTwo" width="50%" height="50%">
+<br />
 
 <h5>Network Settings</h5>
 <img src="images/9 - networkSettings.PNG" alt="networkSettings" width="50%" height="50%">
 <img src="images/10 - clickTheNic.PNG" alt="clickTheNic" width="50%" height="50%">
 <img src="images/11 - configStatic.PNG" alt="configStatic" width="50%" height="50%">
+<br />
 
 <h5>Login into VM DC-1</h5>
 <img src="images/12 - accessClientVm.PNG" alt="accessClientVm" width="50%" height="50%">
@@ -58,25 +60,40 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="images/15 - openWfmsc.PNG" alt="openWfmsc" width="50%" height="50%">
 <img src="images/16 - enableCoreNetworking.PNG" alt="enableCoreNetworking" width="50%" height="50%">
 <img src="images/17 - SuccessfulPing.PNG" alt="SuccessfulPing" width="50%" height="50%">
+<br />
+
+<h5>Add roles and features</h5>
 <img src="images/18 - part2AddRoles.PNG" alt="part2AddRoles" width="50%" height="50%">
 <img src="images/19 - aDServices.PNG" alt="aDServices" width="50%" height="50%">
 <img src="images/20 - finishInstall.PNG" alt="finishInstall" width="50%" height="50%">
 <img src="images/21 - selectDomain.PNG" alt="selectDomain" width="50%" height="50%">
 <img src="images/22 - uncheckBox.PNG" alt="uncheckBox" width="50%" height="50%">
 <img src="images/23 - newCredentials.PNG" alt="newCredentials" width="50%" height="50%">
+<br />
+
+<h5>Login as admin_Jane</h5>
 <img src="images/24 - gotToActiveDirectory.PNG" alt="gotToActiveDirectory" width="50%" height="50%">
 <img src="images/24 - janeHomeScreen.PNG" alt="janeHomeScreen" width="50%" height="50%">
 <img src="images/25 - newOrganization.PNG" alt="newOrganization" width="50%" height="50%">
+<br />
+
+<h5>Add EMPLOYEE and ADMIN FolderS</h5>
 <img src="images/26 - EMPLOYEES.PNG" alt="EMPLOYEES" width="50%" height="50%">
 <img src="images/27 - newFolders.PNG" alt="newFolders" width="50%" height="50%">
+<br />
+
+<h5>Add new admin</h5>
 <img src="images/28 - newAdmin.PNG" alt="newAdmin" width="50%" height="50%">
 <img src="images/29 - janeAdmin.PNG" alt="janeAdmin" width="50%" height="50%">
+<br />
+
+<h5>Add admin Jane to domain admins</h5>
 <img src="images/30 - addJaneToDomain.PNG" alt="addJaneToDomain" width="50%" height="50%">
 <img src="images/31 - whoAmIOne.PNG" alt="whoAmIOne" width="50%" height="50%">
 <img src="images/32 - logOff.PNG" alt="logOff" width="50%" height="50%">
 <br />
 
-<h5>Login as Jane</h5>
+<h5>Login as Admin Jane</h5>
 <img src="images/33 - loginAsJane.PNG" alt="loginAsJane" width="50%" height="50%">
 <img src="images/34 - goToSystem.PNG" alt="goToSystem" width="50%" height="50%">
 <img src="images/35 - renameThisPc.PNG" alt="renameThisPc" width="50%" height="50%">
@@ -103,5 +120,5 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="images/44 - remoteDesktopAdd.PNG" alt="remoteDesktopAdd" width="50%" height="50%">
 <img src="images/45 - domainUsers.PNG" alt="domainUsers" width="50%" height="50%">
 <img src="images/46 - users.PNG" alt="users" width="50%" height="50%">
-
+<br />
 
