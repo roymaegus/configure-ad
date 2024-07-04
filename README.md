@@ -148,7 +148,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 
-<h5>Renew the PC</h5>
+<h5>Rename this PC</h5>
 <img src="images/40 - renameThisPc.PNG" alt="renameThisPc" width="50%" height="50%">
 <img src="images/41 - nyDomain.PNG" alt="nyDomain" width="50%" height="50%">
 <img src="images/42 - newJaneLogin.PNG" alt="newJaneLogin" width="50%" height="50%">
@@ -158,7 +158,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 
-<h5>Complete Domain Controller</h5>
+<h5>Add Jane to Domain Users</h5>
 <img src="images/44 - remoteDesktopAdd.PNG" alt="remoteDesktopAdd" width="50%" height="50%">
 <img src="images/45 - domainUsers.PNG" alt="domainUsers" width="50%" height="50%">
 <img src="images/46 - users.PNG" alt="users" width="50%" height="50%">
