@@ -95,14 +95,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="images/45 - domainUsers.PNG" alt="domainUsers" width="50%" height="50%">
 <img src="images/46 - users.PNG" alt="users" width="50%" height="50%">
 
-<h5>Generate users to work with</h5>
-<img src="images/47 - psIseAdmin.PNG" alt="psIseAdmin" width="50%" height="50%">
-<img src="images/48 - addScript.PNG" alt="addScript" width="50%" height="50%">
-<img src="images/49 - createRandomUsers.PNG" alt="createRandomUsers" width="50%" height="50%">
-<img src="images/50 - employeeGenResult.PNG" alt="employeeGenResult" width="50%" height="50%">
-<img src="images/51 - randomUserLogin.PNG" alt="randomUserLogin" width="50%" height="50%">
-<img src="images/52 - loginScreen.PNG" alt="loginScreen" width="50%" height="50%">
-<img src="images/53 - loginFail.PNG" alt="loginFail" width="50%" height="50%">
-<img src="images/54 - accountUnlock.PNG" alt="accountUnlock" width="50%" height="50%">
-<img src="images/55 - passwordReset.PNG" alt="passwordReset" width="50%" height="50%">
-</br>
+
