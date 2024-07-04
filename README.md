@@ -82,7 +82,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="images/35 - renameThisPc.PNG" alt="renameThisPc" width="50%" height="50%">
 <br />
 
-<h5>Match NIC</h5>
+<h5>Connect DC-1 to Client-1</h5>
 <img src="images/36 - networkSettings.PNG" alt="networkSettings" width="50%" height="50%">
 <img src="images/37 - setDnsServer.PNG" alt="setDnsServer" width="50%" height="50%">
 <img src="images/38 - restartClient1.PNG" alt="restartClient1" width="50%" height="50%">
@@ -94,6 +94,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="images/44 - remoteDesktopAdd.PNG" alt="remoteDesktopAdd" width="50%" height="50%">
 <img src="images/45 - domainUsers.PNG" alt="domainUsers" width="50%" height="50%">
 <img src="images/46 - users.PNG" alt="users" width="50%" height="50%">
+
+<h5>Generate users to work with</h5>
 <img src="images/47 - psIseAdmin.PNG" alt="psIseAdmin" width="50%" height="50%">
 <img src="images/48 - addScript.PNG" alt="addScript" width="50%" height="50%">
 <img src="images/49 - createRandomUsers.PNG" alt="createRandomUsers" width="50%" height="50%">
