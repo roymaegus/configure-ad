@@ -32,19 +32,26 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ## Deployment and Configuration Steps
 
-### Create Two Virtual Machines
+<h5>Create a virtual machine called DC-1</h5>
 <p>
 <img src="images/1 - createVm.PNG" alt="createVm" width="50%" height="50%">
 <img src="images/2 - vmData.PNG" alt="vmData" width="50%" height="50%">
 <img src="images/3 - vmBottomData.PNG" alt="vmBottomData" width="50%" height="50%">
+<br />
+  
+<h5>Create a virtual machine called Client-1</h5>
 <img src="images/4 - vmClient1DataTop.PNG" alt="vmClient1DataTop" width="50%" height="50%">
 <img src="images/5 - vmClient1DataBottom.PNG" alt="vmClient1DataBottom" width="50%" height="50%">
 <img src="images/6 - skipDisks.PNG" alt="skipDisks" width="50%" height="50%">
 <img src="images/7 - networkingOptions.PNG" alt="networkingOptions" width="50%" height="50%">
 <img src="images/8 - createVmTwo.PNG" alt="createVmTwo" width="50%" height="50%">
+
+<h5>Network Settings</h5>
 <img src="images/9 - networkSettings.PNG" alt="networkSettings" width="50%" height="50%">
 <img src="images/10 - clickTheNic.PNG" alt="clickTheNic" width="50%" height="50%">
 <img src="images/11 - configStatic.PNG" alt="configStatic" width="50%" height="50%">
+
+<h5>Login into VM DC-1</h5>
 <img src="images/12 - accessClientVm.PNG" alt="accessClientVm" width="50%" height="50%">
 <img src="images/13 - login.PNG" alt="login" width="50%" height="50%">
 <img src="images/14 - ping.PNG" alt="ping" width="50%" height="50%">
@@ -67,9 +74,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="images/30 - addJaneToDomain.PNG" alt="addJaneToDomain" width="50%" height="50%">
 <img src="images/31 - whoAmIOne.PNG" alt="whoAmIOne" width="50%" height="50%">
 <img src="images/32 - logOff.PNG" alt="logOff" width="50%" height="50%">
+<br />
+
+<h5>Login as Jane</h5>
 <img src="images/33 - loginAsJane.PNG" alt="loginAsJane" width="50%" height="50%">
 <img src="images/34 - goToSystem.PNG" alt="goToSystem" width="50%" height="50%">
 <img src="images/35 - renameThisPc.PNG" alt="renameThisPc" width="50%" height="50%">
+<br />
+
+<h5>Match NIC</h5>
 <img src="images/36 - networkSettings.PNG" alt="networkSettings" width="50%" height="50%">
 <img src="images/37 - setDnsServer.PNG" alt="setDnsServer" width="50%" height="50%">
 <img src="images/38 - restartClient1.PNG" alt="restartClient1" width="50%" height="50%">
