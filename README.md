@@ -2,14 +2,7 @@
 <img src="images/msAzureBanner.PNG" alt="dndUploadFolder" width="50%" height="50%">
 </p>
 
-<img src="images/1 - createVm.PNG" alt="createVm" width="50%" height="50%">
-<img src="images/2 - vmData.PNG" alt="vmData" width="50%" height="50%">
-<img src="images/3 - vmBottomData.PNG" alt="vmBottomData" width="50%" height="50%">
-<img src="images/4 - vmClient1DataTop.PNG" alt="vmClient1DataTop" width="50%" height="50%">
-<img src="images/5 - vmClient1DataBottom.PNG" alt="vmClient1DataBottom" width="50%" height="50%">
-<img src="images/6 - skipDisks.PNG" alt="skipDisks" width="50%" height="50%">
-<img src="images/7 - networkingOptions.PNG" alt="networkingOptions" width="50%" height="50%">
-<img src="images/8 - createVmTwo.PNG" alt="createVmTwo" width="50%" height="50%">
+
 <img src="images/9 - networkSettings.PNG" alt="networkSettings" width="50%" height="50%">
 <img src="images/10 - clickTheNic.PNG" alt="clickTheNic" width="50%" height="50%">
 <img src="images/11 - configStatic.PNG" alt="configStatic" width="50%" height="50%">
@@ -88,12 +81,18 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Create Two Virtual Machines
 <p>
-<img src="images/msAzureBanner.PNG" alt="dndUploadFolder" width="50%" height="50%">
+<img src="images/1 - createVm.PNG" alt="createVm" width="50%" height="50%">
+
 </p>
-To start, go to [portal.azure.com](https://portal.azure.com) and create a profile or login. Create a subscription name, create a resource group, create two virtual machines, create a domain controller using Windows Server, and a client PC using Windows 10 Pro.
+Create a subscription name, create a resource group, create two virtual machines, create a domain controller using Windows Server, and a client PC using Windows 10 Pro.
 <p>
-<img src="images/msAzureBanner.PNG" alt="dndUploadFolder" width="50%" height="50%">
-</p>
+<img src="images/2 - vmData.PNG" alt="vmData" width="50%" height="50%">
+<img src="images/3 - vmBottomData.PNG" alt="vmBottomData" width="50%" height="50%">
+<img src="images/4 - vmClient1DataTop.PNG" alt="vmClient1DataTop" width="50%" height="50%">
+<img src="images/5 - vmClient1DataBottom.PNG" alt="vmClient1DataBottom" width="50%" height="50%">
+<img src="images/6 - skipDisks.PNG" alt="skipDisks" width="50%" height="50%">
+<img src="images/7 - networkingOptions.PNG" alt="networkingOptions" width="50%" height="50%">
+<img src="images/8 - createVmTwo.PNG" alt="createVmTwo" width="50%" height="50%">
 </br>
 ### Ensure Connectivity between the client and Domain Controller
 <p>
